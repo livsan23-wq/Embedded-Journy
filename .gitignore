@@ -5,3 +5,5 @@
 obj/
 bin/
 Notes/test4/
+.venv-tf/
+.vscode/
